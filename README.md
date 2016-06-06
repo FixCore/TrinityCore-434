@@ -1,5 +1,5 @@
-# TrinityCore-335a
-TrinityCore Release 335a
+# TrinityCore-434
+TrinityCore Release 434
 
 FixCore es una empresa de desarrollo con especialidad en el juego world of warcraft.
 @FixStore - @FixDevs - @FixCMS son propiedad de @FixCore.
